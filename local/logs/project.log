@@ -1,0 +1,478 @@
+2023-01-02T18:08:40.068Z - log: [Package] menu@1.0.0 enable
+2023-01-02T18:08:40.070Z - log: [Package] profile@1.0.0 enable
+2023-01-02T18:08:40.080Z - log: [Package] project@1.0.2 enable
+2023-01-02T18:08:40.087Z - log: [Package] messages@1.0.0 enable
+2023-01-02T18:08:40.090Z - log: [Package] program@1.0.0 enable
+2023-01-02T18:08:40.099Z - log: [Package] tester@1.0.0 enable
+2023-01-02T18:08:40.104Z - log: [Package] preferences@1.0.0 enable
+2023-01-02T18:08:42.883Z - log: Load engine in C:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine
+2023-01-02T18:08:43.387Z - log: Register native engine in C:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\native
+2023-01-02T18:08:43.390Z - log: [Package] engine@1.0.7 enable
+2023-01-02T18:08:44.509Z - log: [Package] programming@1.0.0 enable
+2023-01-02T18:08:44.561Z - warn: 
+2023-01-02T18:08:44.596Z - warn: 
+2023-01-02T18:08:44.869Z - log: [Package] device@1.0.1 enable
+2023-01-02T18:08:44.904Z - log: [Package] ui-kit@1.0.1 enable
+2023-01-02T18:08:44.933Z - log: [Package] engine-extends@1.0.0 enable
+2023-01-02T18:08:45.005Z - log: [Package] asset-db@1.0.0 enable
+2023-01-02T18:08:45.006Z - warn: 
+2023-01-02T18:08:45.048Z - log: [Package] scene@1.0.0 enable
+2023-01-02T18:08:45.218Z - log: [Package] server@1.0.0 enable
+2023-01-02T18:08:45.248Z - log: [Package] utils@1.0.0 enable
+2023-01-02T18:08:49.233Z - warn: 
+2023-01-02T18:08:49.233Z - warn: 
+2023-01-02T18:08:49.233Z - warn: 
+2023-01-02T18:08:49.239Z - warn: 
+2023-01-02T18:08:49.239Z - warn: 
+2023-01-02T18:08:49.239Z - warn: 
+2023-01-02T18:08:50.846Z - warn: 
+2023-01-02T18:08:50.913Z - log: [Package] preview@1.0.1 enable
+2023-01-02T18:08:50.947Z - log: [Package] animator@1.0.0 enable
+2023-01-02T18:08:50.990Z - log: pluginManager init: 0.13ms
+2023-01-02T18:08:51.153Z - warn: 
+2023-01-02T18:08:51.153Z - warn: 
+2023-01-02T18:08:51.153Z - warn: 
+2023-01-02T18:08:52.191Z - log: [Package] builder@1.3.3 enable
+2023-01-02T18:08:52.225Z - log: [Package] shortcuts@1.0.1 enable
+2023-01-02T18:08:52.257Z - log: [Package] animation-graph@1.0.0 enable
+2023-01-02T18:08:52.294Z - log: [Package] about@1.0.0 enable
+2023-01-02T18:08:52.328Z - log: [Package] assets@1.0.0 enable
+2023-01-02T18:08:52.355Z - log: [Package] console@1.0.0 enable
+2023-01-02T18:08:52.531Z - log: [Package] extension@3.0.16 enable
+2023-01-02T18:08:52.567Z - log: [Package] hierarchy@1.0.0 enable
+2023-01-02T18:08:52.596Z - log: [Package] inspector@1.0.0 enable
+2023-01-02T18:08:52.625Z - log: [Package] lightmap@1.0.4 enable
+2023-01-02T18:08:53.105Z - log: [Package] localization-editor@1.0.0 enable
+2023-01-02T18:08:53.127Z - log: [Build-plugin] register pkg localization-editor: 17.108ms
+2023-01-02T18:08:53.157Z - log: [Package] node-library@1.0.1 enable
+2023-01-02T18:08:53.180Z - log: [Package] package-asset@1.0.0 enable
+2023-01-02T18:08:53.208Z - log: [Package] process@1.0.0 enable
+2023-01-02T18:08:53.238Z - log: [Package] reference-image@1.0.0 enable
+2023-01-02T18:08:53.261Z - log: [Package] alipay-mini-game@1.0.1 enable
+2023-01-02T18:08:53.262Z - log: [Build-plugin] register pkg alipay-mini-game: 1.398ms
+2023-01-02T18:08:53.286Z - log: [Package] android@1.0.1 enable
+2023-01-02T18:08:53.295Z - log: [Build-plugin] register pkg android: 8.794ms
+2023-01-02T18:08:53.363Z - log: [Package] baidu-mini-game@1.0.1 enable
+2023-01-02T18:08:53.369Z - log: [Build-plugin] register pkg baidu-mini-game: 5.699ms
+2023-01-02T18:08:53.400Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2023-01-02T18:08:53.403Z - log: [Build-plugin] register pkg bytedance-mini-game: 2.48ms
+2023-01-02T18:08:53.425Z - log: [Package] certificate@1.0.0 enable
+2023-01-02T18:08:53.449Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-01-02T18:08:53.472Z - log: [Package] cocos-play@1.0.1 enable
+2023-01-02T18:08:53.477Z - log: [Build-plugin] register pkg cocos-play: 4.879ms
+2023-01-02T18:08:53.499Z - log: [Package] huawei-agc@1.0.0 enable
+2023-01-02T18:08:53.503Z - log: [Build-plugin] register pkg huawei-agc: 3.821ms
+2023-01-02T18:08:53.526Z - log: [Package] huawei-quick-game@1.0.1 enable
+2023-01-02T18:08:53.532Z - log: [Build-plugin] register pkg huawei-quick-game: 5.301ms
+2023-01-02T18:08:53.556Z - log: [Package] ios@1.0.0 enable
+2023-01-02T18:08:53.561Z - log: [Build-plugin] register pkg ios: 4.545ms
+2023-01-02T18:08:53.583Z - log: [Package] linux@1.0.0 enable
+2023-01-02T18:08:53.584Z - log: [Build-plugin] register pkg linux: 0.802ms
+2023-01-02T18:08:53.607Z - log: [Package] mac@1.0.0 enable
+2023-01-02T18:08:53.613Z - log: [Build-plugin] register pkg mac: 4.909ms
+2023-01-02T18:08:53.698Z - log: [Package] native@1.0.2 enable
+2023-01-02T18:08:53.708Z - log: [Build-plugin] register pkg native: 9.916ms
+2023-01-02T18:08:53.732Z - log: [Package] ohos@1.0.0 enable
+2023-01-02T18:08:53.736Z - log: [Build-plugin] register pkg ohos: 4.165ms
+2023-01-02T18:08:53.757Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-01-02T18:08:53.758Z - log: [Build-plugin] register pkg open-harmonyos: 0.83ms
+2023-01-02T18:08:53.780Z - log: [Package] oppo-mini-game@1.0.1 enable
+2023-01-02T18:08:53.785Z - log: [Build-plugin] register pkg oppo-mini-game: 4.958ms
+2023-01-02T18:08:53.808Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-01-02T18:08:53.831Z - log: [Package] vivo-mini-game@1.0.1 enable
+2023-01-02T18:08:53.836Z - log: [Build-plugin] register pkg vivo-mini-game: 4.227ms
+2023-01-02T18:08:53.876Z - log: [Package] web-desktop@1.0.1 enable
+2023-01-02T18:08:53.882Z - log: [Build-plugin] register pkg web-desktop: 5.314ms
+2023-01-02T18:08:53.912Z - log: [Package] web-mobile@1.0.1 enable
+2023-01-02T18:08:53.917Z - log: [Build-plugin] register pkg web-mobile: 4.025ms
+2023-01-02T18:08:53.945Z - log: [Package] wechatgame@1.0.2 enable
+2023-01-02T18:08:53.950Z - log: [Build-plugin] register pkg wechatgame: 4.889ms
+2023-01-02T18:08:53.972Z - log: [Package] windows@1.0.1 enable
+2023-01-02T18:08:53.976Z - log: [Build-plugin] register pkg windows: 4.032ms
+2023-01-02T18:08:53.998Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2023-01-02T18:08:54.003Z - log: [Build-plugin] register pkg xiaomi-quick-game: 4.76ms
+2023-01-02T18:08:54.237Z - log: [Package] cocos-service@3.0.4 enable
+2023-01-02T18:08:54.241Z - log: [Build-plugin] register pkg cocos-service: 1.806ms
+2023-01-02T18:08:54.269Z - log: [Package] importer@1.1.0 enable
+2023-01-02T18:08:54.537Z - log: [Im-plugin] Check im-plugin version.
+2023-01-02T18:08:54.542Z - log: [Package] im-plugin@3.0.9 enable
+2023-01-02T18:08:55.715Z - log: [Im-plugin] No online info of im-plugin.
+2023-01-02T18:08:59.894Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.919Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.920Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.920Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.923Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2023-01-02T18:08:59.923Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2023-01-02T18:08:59.938Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.938Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.938Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.939Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.939Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.939Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.940Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.940Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.940Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.940Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.941Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.941Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.942Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-02T18:08:59.977Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2023-01-02T18:09:00.054Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2023-01-02T18:09:00.054Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2023-01-02T18:09:00.055Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2023-01-02T18:09:00.055Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2023-01-02T18:09:00.193Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-01-02T18:09:00.209Z - info: [Scene] [PHYSICS]: using builtin.
+2023-01-02T18:09:00.367Z - log: [Scene] Cocos Creator v3.6.2
+2023-01-02T18:09:00.367Z - info: [Scene] Forward render pipeline initialized.
+2023-01-02T18:09:00.521Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2023-01-02T19:18:22.175Z - error: The build process crashed!
+2023-01-02T19:18:22.175Z - error: {
+  preventDefault: [Function: preventDefault],
+  sender: EventEmitter {
+    isDestroyed: [Function: isDestroyed],
+    destroy: [Function: destroy],
+    getBackgroundThrottling: [Function: getBackgroundThrottling],
+    setBackgroundThrottling: [Function: setBackgroundThrottling],
+    getProcessId: [Function: getProcessId],
+    getOSProcessId: [Function: getOSProcessId],
+    equal: [Function: equal],
+    _loadURL: [Function: _loadURL],
+    downloadURL: [Function: downloadURL],
+    _getURL: [Function: _getURL],
+    getTitle: [Function: getTitle],
+    isLoading: [Function: isLoading],
+    isLoadingMainFrame: [Function: isLoadingMainFrame],
+    isWaitingForResponse: [Function: isWaitingForResponse],
+    _stop: [Function: _stop],
+    _goBack: [Function: _goBack],
+    _goForward: [Function: _goForward],
+    _goToOffset: [Function: _goToOffset],
+    isCrashed: [Function: isCrashed],
+    forcefullyCrashRenderer: [Function: forcefullyCrashRenderer],
+    setUserAgent: [Function: setUserAgent],
+    getUserAgent: [Function: getUserAgent],
+    savePage: [Function: savePage],
+    openDevTools: [Function: openDevTools],
+    closeDevTools: [Function: closeDevTools],
+    isDevToolsOpened: [Function: isDevToolsOpened],
+    isDevToolsFocused: [Function: isDevToolsFocused],
+    enableDeviceEmulation: [Function: enableDeviceEmulation],
+    disableDeviceEmulation: [Function: disableDeviceEmulation],
+    toggleDevTools: [Function: toggleDevTools],
+    inspectElement: [Function: inspectElement],
+    setIgnoreMenuShortcuts: [Function: setIgnoreMenuShortcuts],
+    setAudioMuted: [Function: setAudioMuted],
+    isAudioMuted: [Function: isAudioMuted],
+    isCurrentlyAudible: [Function: isCurrentlyAudible],
+    undo: [Function: undo],
+    redo: [Function: redo],
+    cut: [Function: cut],
+    copy: [Function: copy],
+    paste: [Function: paste],
+    pasteAndMatchStyle: [Function: pasteAndMatchStyle],
+    delete: [Function: delete],
+    selectAll: [Function: selectAll],
+    unselect: [Function: unselect],
+    replace: [Function: replace],
+    replaceMisspelling: [Function: replaceMisspelling],
+    findInPage: [Function: findInPage],
+    stopFindInPage: [Function: stopFindInPage],
+    focus: [Function: focus],
+    isFocused: [Function: isFocused],
+    sendInputEvent: [Function: sendInputEvent],
+    beginFrameSubscription: [Function: beginFrameSubscription],
+    endFrameSubscription: [Function: endFrameSubscription],
+    startDrag: [Function: startDrag],
+    attachToIframe: [Function: attachToIframe],
+    detachFromOuterFrame: [Function: detachFromOuterFrame],
+    isOffscreen: [Function: isOffscreen],
+    startPainting: [Function: startPainting],
+    stopPainting: [Function: stopPainting],
+    isPainting: [Function: isPainting],
+    setFrameRate: [Function: setFrameRate],
+    getFrameRate: [Function: getFrameRate],
+    invalidate: [Function: invalidate],
+    setZoomLevel: [Function: setZoomLevel],
+    getZoomLevel: [Function: getZoomLevel],
+    setZoomFactor: [Function: setZoomFactor],
+    getZoomFactor: [Function: getZoomFactor],
+    getType: [Function: getType],
+    _getPreloadPaths: [Function: _getPreloadPaths],
+    getWebPreferences: [Function: getWebPreferences],
+    getLastWebPreferences: [Function: getLastWebPreferences],
+    getOwnerBrowserWindow: [Function: getOwnerBrowserWindow],
+    inspectServiceWorker: [Function: inspectServiceWorker],
+    inspectSharedWorker: [Function: inspectSharedWorker],
+    inspectSharedWorkerById: [Function: inspectSharedWorkerById],
+    getAllSharedWorkers: [Function: getAllSharedWorkers],
+    _print: [Function: _print],
+    _printToPDF: [Function: _printToPDF],
+    _setNextChildWebPreferences: [Function: _setNextChildWebPreferences],
+    addWorkSpace: [Function: addWorkSpace],
+    removeWorkSpace: [Function: removeWorkSpace],
+    showDefinitionForSelection: [Function: showDefinitionForSelection],
+    copyImageAt: [Function: copyImageAt],
+    capturePage: [Function: capturePage],
+    setEmbedder: [Function: setEmbedder],
+    setDevToolsWebContents: [Function: setDevToolsWebContents],
+    getNativeView: [Function: getNativeView],
+    incrementCapturerCount: [Function: incrementCapturerCount],
+    decrementCapturerCount: [Function: decrementCapturerCount],
+    isBeingCaptured: [Function: isBeingCaptured],
+    setWebRTCIPHandlingPolicy: [Function: setWebRTCIPHandlingPolicy],
+    getWebRTCIPHandlingPolicy: [Function: getWebRTCIPHandlingPolicy],
+    _grantOriginAccess: [Function: _grantOriginAccess],
+    takeHeapSnapshot: [Function: takeHeapSnapshot],
+    id: 5,
+    session: [Getter],
+    hostWebContents: [Getter],
+    devToolsWebContents: [Getter],
+    debugger: [Getter],
+    _initiallyShown: [Getter],
+    mainFrame: [Getter],
+    _events: [Object: null prototype] {
+      'navigation-entry-committed': [Function (anonymous)],
+      '-ipc-message': [Function (anonymous)],
+      '-ipc-invoke': [Function (anonymous)],
+      '-ipc-message-sync': [Function (anonymous)],
+      '-ipc-ports': [Function (anonymous)],
+      crashed: [Array],
+      'render-process-gone': [Array],
+      'devtools-reload-page': [Function (anonymous)],
+      '-new-window': [Function (anonymous)],
+      '-will-add-new-contents': [Function (anonymous)],
+      '-add-new-contents': [Function (anonymous)],
+      login: [Function (anonymous)],
+      'ready-to-show': [Function (anonymous)],
+      'dom-ready': [Function (anonymous)],
+      'did-start-loading': [Function (anonymous)],
+      'render-view-deleted': [Function: listener]
+    },
+    _eventsCount: 16,
+    loadURL: [Function: bound loadURL],
+    getURL: [Function: bound getURL],
+    stop: [Function: bound stop],
+    reload: [Function: bound reload],
+    reloadIgnoringCache: [Function: bound reloadIgnoringCache],
+    canGoBack: [Function: bound canGoBack],
+    canGoForward: [Function: bound canGoForward],
+    canGoToIndex: [Function: bound canGoToIndex],
+    canGoToOffset: [Function: bound canGoToOffset],
+    clearHistory: [Function: bound clearHistory],
+    goBack: [Function: bound goBack],
+    goForward: [Function: bound goForward],
+    goToIndex: [Function: bound goToIndex],
+    goToOffset: [Function: bound goToOffset],
+    getActiveIndex: [Function: bound getActiveIndex],
+    length: [Function: bound length],
+    _windowOpenHandler: null,
+    _maxListeners: 0,
+    browserWindowOptions: {
+      width: 300,
+      height: 300,
+      show: false,
+      autoHideMenuBar: true,
+      webPreferences: [Object]
+    }
+  }
+}
